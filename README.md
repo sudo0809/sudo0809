@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @sudo0809
-- 🌱 I’m currently learning Data Science and Machine Learning and How to make them useful by creating End-to-End Projects of the models.
-- 💞️ I’m trying to grow myself by not only learning but also Trying to write Blogs and would make youtube Videos explaining my projects and adding to the ML community
+- 🌱 I speak multiple languages like Ruby, Javascript, Python and C++ 
+- 🔱 Skilled in
+  - Ruby on Rails, React, Node.js
+- 💞️ Better visual representation of me is present on my [Portfolio](https://sugatdhole.com). Do check this out
 - 📫 If you want to reach me, you can do by mailing me at sugatdhole@gmail.com or messaging me on [LinkedIn](www.linkedin.com/in/sugatdhole)
 
 <!---
